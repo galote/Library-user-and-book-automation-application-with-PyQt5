@@ -23,8 +23,8 @@ ui.tabWidget.setTabEnabled(2,False)
 ui.tabWidget.setTabEnabled(1,False)
 ui.tabWidget.setCurrentIndex(0)
 
-sys_kullanıcı ="benferhat_clk"
-sys_parola  ="Miranbahoz"
+sys_kullanıcı =""
+sys_parola  =""
 
 
 def sayfa_aktifleştir ():
