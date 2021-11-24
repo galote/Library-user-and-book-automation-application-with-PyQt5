@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>tick.png</file>
+    <file>close.png</file>
+    <file>save.png</file>
+    <file>next-button.png</file>
+    <file>search.png</file>
+    <file>add.png</file>
+    <file>add-friend.png</file>
+    <file>book.png</file>
+    <file>books.png</file>
+    <file>group.png</file>
+    <file>home.png</file>
+    <file>indir.png</file>
+    <file>login.png</file>
+    <file>singin_borded_imge.jpg</file>
+  </qresource>
+</RCC>
